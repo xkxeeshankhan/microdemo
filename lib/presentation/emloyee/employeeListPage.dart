@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:microdemo/presentation/emoloyee/addNewEmployee.dart';
-import 'package:microdemo/presentation/emoloyee/employeeDetailPage.dart';
+import 'package:microdemo/presentation/emloyee/addNewEmployee.dart';
+import 'package:microdemo/presentation/emloyee/employeeDetailPage.dart';
 import 'package:microdemo/presentation/widget/Loading.dart';
 import 'package:microdemo/repository/employee/EmployeeModel.dart';
 import 'package:microdemo/repository/employee/getEmployee/getEmployeeEvent.dart';
